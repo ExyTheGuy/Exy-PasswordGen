@@ -1,4 +1,5 @@
 # Exy-PasswordGen
+**Under GNU General Public License v3.0**
 Just my personal password generator that I made...
 
 For choosing the complexity of the password, you are given options to add:
