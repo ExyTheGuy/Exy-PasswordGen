@@ -15,3 +15,5 @@ To choose what characters you would like:
 
 There is also an option to exclude characters that are harder to read like - 0O Il 1!
 - To exclude them, use `X` option.
+
+And one more thing, the password generator refuses to do anything if you request <8 character long password xd
